@@ -19,7 +19,6 @@ public class Demo1 {
 
             long endTime = System.currentTimeMillis();
 
-            System.out.println("n = " + n);
             System.out.println("sum = " + sum);
             System.out.println("10^" + x + " : " + (endTime - startTime) + " ms");
             System.out.println("");
