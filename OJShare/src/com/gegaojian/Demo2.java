@@ -11,13 +11,13 @@ public class Demo2 {
         int[] randomArray = MyUtil.generateRandomArray(NUM);
         int[] orderedArray = MyUtil.generateOrderedArray(NUM);
 
-        System.out.println("Selection Sort on Random Array: ");
+        System.out.println("Selection Sort on Random Array with size of " + NUM + " : ");
         long startTime = System.currentTimeMillis();
         MyAlgorithm.selectionSort(randomArray);
         long endTime = System.currentTimeMillis();
         System.out.println((endTime - startTime) + " ms");
 
-        System.out.println("Selection Sort on Ordered Array: ");
+        System.out.println("Selection Sort on Ordered Array with size of " + NUM + " : ");
         startTime = System.currentTimeMillis();
         MyAlgorithm.selectionSort(orderedArray);
         endTime = System.currentTimeMillis();

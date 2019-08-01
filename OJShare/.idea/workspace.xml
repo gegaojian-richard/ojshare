@@ -25,8 +25,8 @@
       <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="230">
+              <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="Demo2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="116">
+              <caret line="13" column="87" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -45,8 +45,8 @@
       <file leaf-file-name="Demo3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="169">
+              <caret line="19" column="92" lean-forward="false" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
               <folding />
             </state>
           </provider>
@@ -55,7 +55,7 @@
       <file leaf-file-name="Arrays.java" pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10506">
+            <state relative-caret-position="10472">
               <caret line="671" column="23" lean-forward="false" selection-start-line="671" selection-start-column="23" selection-end-line="671" selection-end-column="23" />
               <folding>
                 <element signature="e#5027#5028#0" expanded="true" />
@@ -78,7 +78,7 @@
       <file leaf-file-name="Demo4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="323">
               <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
               <folding />
             </state>
@@ -119,10 +119,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/gegaojian/MyAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/com/gegaojian/MyUtil.java" />
-        <option value="$PROJECT_DIR$/src/com/gegaojian/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/com/gegaojian/Demo3.java" />
         <option value="$PROJECT_DIR$/src/com/gegaojian/Demo4.java" />
         <option value="$PROJECT_DIR$/src/com/gegaojian/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/com/gegaojian/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/com/gegaojian/Demo3.java" />
       </list>
     </option>
   </component>
@@ -151,9 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -177,6 +174,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,9 +314,9 @@
     <recent_temporary>
       <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Application.Demo1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo4" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo3" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Demo4" />
       </list>
     </recent_temporary>
   </component>
@@ -338,11 +338,12 @@
       <workItem from="1564376622264" duration="2702000" />
       <workItem from="1564502183808" duration="1417000" />
       <workItem from="1564591328325" duration="1595000" />
+      <workItem from="1564637263353" duration="735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5714000" />
+    <option name="totallyTimeSpent" value="6449000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -390,6 +391,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11407">
+          <caret line="671" column="23" lean-forward="false" selection-start-line="671" selection-start-column="23" selection-end-line="671" selection-end-column="23" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/MyAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/MyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -533,7 +601,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10506">
+        <state relative-caret-position="10472">
           <caret line="671" column="23" lean-forward="false" selection-start-line="671" selection-start-column="23" selection-end-line="671" selection-end-column="23" />
           <folding>
             <element signature="e#5027#5028#0" expanded="true" />
@@ -550,34 +618,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo2.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        <state relative-caret-position="169">
+          <caret line="19" column="92" lean-forward="false" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo4.java">
+    <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="116">
+          <caret line="13" column="87" lean-forward="false" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gegaojian/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        <state relative-caret-position="230">
+          <caret line="19" column="29" lean-forward="false" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding />
         </state>
       </provider>
